@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luodan3847.github.io/portfolio/sitemap.xml
